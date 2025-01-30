@@ -1,0 +1,30 @@
+{
+  "tabs": {
+    "characters": "Characters",
+    "settings": "Settings"
+  },
+  "characters": {
+    "card": {
+      "status": "Status",
+      "species": "Species",
+      "gender": "Gender",
+      "origin": "Origin",
+      "location": "Location"
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "theme": {
+      "title": "Select theme",
+      "light": "Light",
+      "dark": "Dark",
+      "system": "System",
+      "custom": "Custom"
+    },
+    "lang": {
+      "title": "Select language",
+      "ru": "Russian",
+      "en": "English"
+    }
+  }
+}
